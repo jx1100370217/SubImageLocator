@@ -4,7 +4,7 @@
 
 基于 **SuperPoint + LightGlue** 的子图定位工具，可快速定位子图在原图中的精确位置。
 
-![Demo](assets/demo.jpg)
+![Demo](assets/webui.png)
 
 ## ✨ 特性
 

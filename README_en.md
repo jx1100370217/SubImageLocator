@@ -4,7 +4,7 @@
 
 Fast sub-image localization powered by **SuperPoint + LightGlue** feature matching. Find where a sub-image appears in a larger image in ~28ms.
 
-![Demo](assets/demo.jpg)
+![Demo](assets/webui.png)
 
 ## ✨ Features
 
