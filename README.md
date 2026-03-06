@@ -4,6 +4,8 @@
 
 基于 **SuperPoint + LightGlue** 的子图定位工具，可快速定位子图在原图中的精确位置。
 
+![Demo](assets/demo.jpg)
+
 ## ✨ 特性
 
 - **高速匹配**：模型预加载缓存，推理耗时 ~28ms（NVIDIA L40 GPU）
