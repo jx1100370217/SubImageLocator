@@ -2,6 +2,10 @@
 
 基于 **DINOv3** 密集 patch 特征的子图定位工具，可快速定位子图在原图中的精确位置。
 
+## 📸 效果展示
+
+![WebUI Demo](assets/webui.png)
+
 ## ✨ 特性
 
 - **密集特征匹配**：DINOv3 ViT-B/16 提取全图 patch token，滑动窗口余弦相似度定位
